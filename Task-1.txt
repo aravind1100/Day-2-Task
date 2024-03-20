@@ -1,0 +1,25 @@
+Question : Write a blog on the Difference between document and window objects
+
+Document and Window objects:
+
+    * The window object represents an open window in a browser.When an HTML document
+      is loaded into a web browser,it becomes a document object.
+
+    * The document object is the root node of the HTML document in Document
+      Object Model (DOM) tree.
+
+    * Both Window and document keywords comes under the "object" data type and can be 
+      accessed from the Browser engine .
+
+    * The document object is a property of the window object.
+      Example:
+       1. The document object is accessed with window.document or document.
+       2. document.URL displays the URL of the browser window.
+
+    * The document and window object have several methods by which we can perform several actions.
+      Example: 
+       1. window.alert() displays an alert box with a message and an OK button
+       2. document.open() opens a new browser window
+
+    
+    
